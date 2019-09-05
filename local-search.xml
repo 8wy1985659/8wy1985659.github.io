@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>test</title>
+      <link href="undefined2019/09/06/test/"/>
+      <url>2019/09/06/test/</url>
+      
+        <content type="html"><![CDATA[<h2 id="引用块"><a href="#引用块" class="headerlink" title="引用块 :"></a>引用块 :</h2><pre><code>{% blockquote [作者[, 来源]] [链接地址] [来源链接标题] %}content{% endblockquote %}</code></pre><h2 id="引入代码-："><a href="#引入代码-：" class="headerlink" title="引入代码 ："></a>引入代码 ：</h2><pre><code>{% codeblock [标题] [lang:语言] [链接地址] [链接文本] %}code snippet{% endcodeblock %}</code></pre><h2 id="引入图片-："><a href="#引入图片-：" class="headerlink" title="引入图片 ："></a>引入图片 ：</h2><pre><code>{% img [class names] /path/to/image [width] [height] "title text 'alt text'" %}</code></pre><h2 id="引入外部链接"><a href="#引入外部链接" class="headerlink" title="引入外部链接"></a>引入外部链接</h2><pre><code>{% link text url [external] [title] %}</code></pre><h2 id="引入代码"><a href="#引入代码" class="headerlink" title="引入代码"></a>引入代码</h2><pre><code>{% include_code [title] [lang:language] path/to/file %}</code></pre><h2 id="引用资源"><a href="#引用资源" class="headerlink" title="引用资源"></a>引用资源</h2><pre><code>{% post_path slug %}{% post_link slug [title] %}{% asset_path slug %}{% asset_img slug [title] %}{% asset_link slug [title] %}</code></pre><h2 id="文章摘要"><a href="#文章摘要" class="headerlink" title="文章摘要"></a>文章摘要</h2><pre><code>&lt;!-- more --&gt;</code></pre>]]></content>
+      
+      
+      <categories>
+          
+          <category> Hexo </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="undefined2019/09/05/hello-world/"/>
       <url>2019/09/05/hello-world/</url>
